@@ -1,6 +1,9 @@
 body {
-  background-color: red;
+  background-color: #686ab1;
   color: white;
   font-size: 40px;
   font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
